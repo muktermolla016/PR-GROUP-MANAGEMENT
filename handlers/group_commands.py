@@ -5,7 +5,7 @@ from pyrogram.raw import types
 import logging
 import db
 
-DEFAULT_WELCOME = "👋 Welcome, {first_name}!
+DEFAULT_WELCOME = "👋 Welcome, {first_name}
 
 We're thrilled to have you in **{chat_title}** 🎉  
 Please make yourself comfortable and check out the pinned message to get started.
