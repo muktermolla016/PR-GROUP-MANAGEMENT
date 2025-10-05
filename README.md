@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://files.catbox.moe/j2yhce.jpg">
-  <img src="https://files.catbox.moe/j2yhce.jpg" width="300" height="300" />
+<a href="https://res.cloudinary.com/dqs0i4x9y/image/upload/v1756735243/ucigusyujb5bwxsjy1rm.jpg">
+  <img src="https://res.cloudinary.com/dqs0i4x9y/image/upload/v1756735243/ucigusyujb5bwxsjy1rm.jpg" width="300" height="300" />
 </a>
 
 ----------------------------------------------------
