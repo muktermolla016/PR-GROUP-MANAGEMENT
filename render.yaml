@@ -1,6 +1,7 @@
 services:
   - type: web
-    name: PR-GROUP-MANAGEMENT
+    name: my-app
     env: python
+    plan: free
     buildCommand: pip install -r requirements.txt
     startCommand: python app.py
