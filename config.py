@@ -7,4 +7,4 @@ OWNER_ID = 7753899951
 BOT_USERNAME = "PR_X_GROUP_MANAGEMENT_bot"  # Bot username without @
 SUPPORT_GROUP = "https://t.me/pr_all_bot_support"
 UPDATE_CHANNEL = "https://t.me/pr_all_bot"
-START_IMAGE = "https://files.catbox.moe/j2yhce.jpg"
+START_IMAGE = "https://res.cloudinary.com/dqs0i4x9y/image/upload/v1756735243/ucigusyujb5bwxsjy1rm.jpg"
