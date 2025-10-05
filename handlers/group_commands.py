@@ -5,18 +5,7 @@ from pyrogram.raw import types
 import logging
 import db
 
-DEFAULT_WELCOME = "👋 Welcome, {first_name}
-
-We're thrilled to have you in **{chat_title}** 🎉  
-Please make yourself comfortable and check out the pinned message to get started.
-
-✨ **Quick Info**
-- Be respectful and kind to everyone 🤝  
-- No spam or self-promotion 🚫  
-- Stay active and have fun 💬  
-
-⚡️ Created by: @OWNER_OF_PR"
-
+DEFAULT_WELCOME = "👋 Welcome {first_name} to {title}!"
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
