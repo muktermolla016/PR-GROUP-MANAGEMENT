@@ -25,7 +25,7 @@ web_app = Flask(__name__)
 
 @web_app.route('/')
 def home():
-    return "Group Manager Bot is running successfully on Render!"
+    return "Pr Group Manager Bot is running successfully!"
 
 def run_web():
     port = int(os.environ.get("PORT", 10000))
